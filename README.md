@@ -1,18 +1,33 @@
-# Welcome to React Router!
+## 🤖 Introduction
 
-A modern, production-ready template for building full-stack React applications using React Router.
+A modern travel agency admin dashboard . Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget — and book trips with ease.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+---
 
-## Features
+## ⚙️ Tech Stack
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+Syncfusion
+React Router v7 (framework mode)
+Appwrite
+Tailwind CSS
+Vite
+React 19
+
+---
+
+## 🔋 Features
+
+Features of the Travel Agency Project
+👉 AI-powered trip itinerary generator
+👉 Trip booking functionality on the public website
+👉 Admin dashboard with trip and user management
+👉 User growth metrics and trip analytics
+👉 Interactive charts and trip statistics table
+👉 Detailed trip overview
+👉 Responsive UI with a modern design
+👉 Secure user authentication and data management
+👉 Modular code architecture with reusable components
+and many more, built for scalability and a smooth user experience.
 
 ## Getting Started
 
